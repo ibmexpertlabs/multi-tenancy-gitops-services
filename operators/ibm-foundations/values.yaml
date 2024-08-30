@@ -3,7 +3,7 @@ global: {}
 ibm-common-services:
   subscriptions:
     subscription:
-      channel: v4.8
+      channel: v7.3-sc2
       config:
         resources: {}
       installPlanApproval: Automatic
